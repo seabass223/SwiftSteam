@@ -8,5 +8,6 @@
 
 import Foundation
 
-let APIKEY = ""
-let STEAMID = ""
+
+let APIKEY = "" //sign up for free API KEY http://steamcommunity.com/dev/apikey
+let STEAMID = "" //your steam ID (long number, not your login name)
